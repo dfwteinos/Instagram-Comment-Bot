@@ -1,0 +1,7 @@
+username0 password0
+username1 password1
+username2 password2
+.
+.
+.
+username_n password_n
