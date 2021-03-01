@@ -51,4 +51,4 @@ So the main idea is to feed our program with some accounts, and let the technolo
 
 Finally, the main equation here is: `accs*cpd`. Accs is for the number of accounts and cpd is a **constant** number and its equal to number of comments you can do per day. Unfortunately, after some research, we found that cpd is equal to ~250.
 
-An average Giveaway from an greece's influencer, can start at 100.000 comments and reach up to 30.000.000(!). So let's say that in the worst case (this with 100.000 comments), in order to have a seriously good odds to win (let's say 50% for example), we must create 100.000/250 = 200 accounts! That's an insane number to do by hand. So the "secret" here is to automate the account creation. (Maybe will do it in future). 
+An average Giveaway from an greece's influencer, can start at 100.000 comments and reach up to 30.000.000(!). So let's say that in the best case (this with 100.000 comments), in order to have a seriously good odds to win (let's say 50% for example), we must create 100.000/250 = 200 accounts! That's an insane number to do by hand. So the "secret" here is to automate the account creation. (Maybe will do it in future). 
